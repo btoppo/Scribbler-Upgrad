@@ -1,0 +1,24 @@
+.bttn{
+    background-color: #ef3b65;
+    padding: 10px;
+    color: white;
+    /* margin: 10px; */
+    box-shadow: 2px 8px 15px rgb(241, 179, 179);
+    border-radius: 8%;
+    border-color: antiquewhite;
+    padding: 8px 30px 8px 30px;
+}
+body{
+    font-family: sans-serif;     
+}
+.com{
+    background-color: rgb(194, 188, 188);
+    padding: 10px;
+    color: black;
+    width: 60%;
+    margin: 25px 5px 5px 5px;
+}
+/* #paraText{
+    background-color: white;
+    color: black;
+} */
